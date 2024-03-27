@@ -1,0 +1,24 @@
+---
+title: "Costos Operativos de Sistema"
+author: "Grupo Hudson"
+date: "2024-03-27"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Precios mini PC gamer
+
+En la siguiente tabla se presentan algunos precios de las mini PC gamer disponibles en MercadoLibre al día de la fecha 27/03/2024:
+
+|Marca          |Modelo       |Memoria RAM  |Precio                  |
+|---------------|-------------|-------------|------------------------|
+|    Asus       |    PN50     |    16GB     |       $854.403         |
+|    Gmktec     | NUCBOX M4   |    32GB     |      $1.337.500        |
+|     HP        |  400 G4     |    32GB     |       $899.900         |
+|   Beelink     |    SER5     |    16GB     |       $946.000         |
+
